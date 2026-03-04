@@ -75,8 +75,8 @@ Multi-vendor sports booking platform with dual dashboards — real-time slot ava
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drawinakash0209&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drawinakash0209&layout=compact&theme=midnight-purple&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drawinakash0209&theme=midnight-purple&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drawinakash0209&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=86400" height="160"/>
 </p>
 
 ---
